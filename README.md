@@ -1,4 +1,4 @@
-# Hi there 👋 I am Mixipixi, how nice of you to come and visit my GitHub profile 😄
+# Hi there 👋 I am Mixipixi, how nice of you to come and visit my GitHub profile :smiley:
 
 ## A stubborn and curious developer at starting point wanting to grow
 
