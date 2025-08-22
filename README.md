@@ -3,7 +3,7 @@
 ## A stubborn and curious developer at starting point wanting to grow
 
 - 🔭 I’m currently working on a webshop that is an examinatory task for my current course also working with a project that is meant to be a from scratch template for Wordpress, which is totally new for me :sweat_smile:
-- 🌱 I’m currently learning PHP, Wordpress and integrating it with a database as well as assembeling everything up from scratch, ongoing a Higher Vocational Education in Webdevelopment with e-commerce specialization
+- 🌱 I’m currently learning Wordpress plugins and alternative ways of building website, ongoing a Higher Vocational Education in Webdevelopment with e-commerce specialization
 - 📫 How to reach me: [HERE](https://www.linkedin.com/in/hayde%C3%A9-paiva-cabrera-1222a5161/)
 - ⚡ Fun fact: I was a musicteacher before I started with programming, still enjoy playing and listening to music but more as a hobby :relaxed:
 
